@@ -1,7 +1,7 @@
 # greetings-app-azure
 
 ### What The Project Is About?
-It Is A Azure Static App In It.
+It Is A Azure Static App In This Site.
 
 ### What Is Tech Stack Used?
 It Uses JavaScript.
